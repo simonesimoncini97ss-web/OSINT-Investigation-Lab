@@ -1,0 +1,9 @@
+# Hunter.io Queries
+
+Domain search:
+meditech-solutions.example
+
+Filters:
+- Email type: generic
+- Email type: personal
+- Confidence score > 80%
