@@ -1,0 +1,6 @@
+# Shodan Queries
+
+ssl:"Meditech Solutions"
+hostname:"meditech-solutions.example"
+port:443 "nginx"
+"WordPress" "Meditech"
